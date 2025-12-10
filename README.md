@@ -63,7 +63,7 @@
   /validator  
 /pkg  
 /config  
-/main.go  
+/cmd
 
 ---
 
