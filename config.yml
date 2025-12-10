@@ -1,0 +1,21 @@
+auth:
+  sign_key: jwt_secret
+
+http_server:
+  port: 8080
+
+mysql:
+  username: root
+  password: 123
+  port: 3306
+  host: localhost
+  db_name: todo 
+
+# redis:
+#   host: localhost
+#   port: 6380
+#   db: 0
+#   password: ""
+
+
+
