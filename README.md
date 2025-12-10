@@ -55,7 +55,7 @@
 ## 🚀 راه‌اندازی پروژه
 
 1. کلون کردن پروژه:
-git clone https://github.com/USERNAME/todoapp.git
+[git clone https://github.com/USERNAME/todoapp.git](https://github.com/ahhhmadtlz/todoapp.git)
 
 2. ورود به پوشه پروژه:
 cd todoapp
